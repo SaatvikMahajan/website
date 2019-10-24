@@ -34,7 +34,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 /* ----------------------------------------------Generalise------------------------------------- */
 
-#header, #topline, #topbar, #breadcrumb, .container, #hpage_cats, #adblock, #socialise, #footer, #copyright{display:block; position:relative; width:960px; margin:0 auto;}
+#header, #topline, #topbar, #breadcrumb, .container, #hpage_cats, #socialise, #footer, #copyright{display:block; position:relative; width:960px; margin:0 auto;}
 
 /* ----------------------------------------------TopBar------------------------------------- */
 
@@ -111,8 +111,6 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 .column .latestnews img{float:left; margin:0 10px 0 0; padding:4px; border:1px solid #C7C5C8; clear:left;}
 
 /* ----------------------------------------------Homepage Specific------------------------------------- */
-
-#adblock{padding:20px 0;}
 
 #hpage_cats{padding:0 0 5px 0;}
 #hpage_cats .fl_left, #hpage_cats .fl_right{display:block; width:468px; margin-bottom:15px;}
